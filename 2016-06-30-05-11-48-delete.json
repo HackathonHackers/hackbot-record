@@ -1,0 +1,39 @@
+{
+  "post": {
+    "id": "554158158077961_604641999696243",
+    "level": 0,
+    "group": "554158158077961",
+    "parent": "554158158077961",
+    "from": "10206311260692901",
+    "fromName": "Anonymous",
+    "type": "status",
+    "message": "test post",
+    "created": "2016-06-30T05:11:42.000Z",
+    "place": null,
+    "tags": [],
+    "link": null,
+    "comments": [
+      {
+        "id": "604642099696233",
+        "level": 1,
+        "group": "554158158077961",
+        "parent": "554158158077961_604641999696243",
+        "from": "10206311260692901",
+        "fromName": "Anonymous",
+        "type": "comment",
+        "message": "/delete",
+        "created": "2016-06-30T05:11:48.000Z",
+        "place": null,
+        "tags": [],
+        "link": null,
+        "comments": [],
+        "isMod": true,
+        "command": "delete",
+        "version": "a65923caf2977f1bf02df1e99cf80156ae0f0a1d"
+      }
+    ],
+    "isMod": true,
+    "command": null,
+    "version": "022d196ce36568bc0c74e83f56aee73439a12b6e"
+  }
+}
