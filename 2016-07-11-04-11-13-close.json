@@ -1,0 +1,20 @@
+{
+  "post": {
+    "id": "1288030201252462",
+    "level": 1,
+    "group": "759985267390294",
+    "parent": "759985267390294_1287356781319804",
+    "from": "10206311260692901",
+    "fromName": "Timotius Sitorus",
+    "type": "comment",
+    "message": "/close",
+    "created": "2016-07-11T04:10:56.000Z",
+    "place": null,
+    "tags": [],
+    "link": null,
+    "comments": [],
+    "isMod": true,
+    "command": "close",
+    "version": "8f27b381cadd9af259ca1a257c266e539d038e3f"
+  }
+}
