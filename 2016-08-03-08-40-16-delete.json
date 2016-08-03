@@ -1,0 +1,39 @@
+{
+  "post": {
+    "id": "759985267390294_1303688993019916",
+    "level": 0,
+    "group": "759985267390294",
+    "parent": "759985267390294",
+    "from": "321668528174452",
+    "fromName": "Anonymous",
+    "type": "status",
+    "message": "Guys use this code to get free uber rides. Must be a company code looool\n\nELBILLUG",
+    "created": "2016-08-03T20:34:42.000Z",
+    "place": null,
+    "tags": [],
+    "link": null,
+    "comments": [
+      {
+        "id": "1303691849686297",
+        "level": 1,
+        "group": "759985267390294",
+        "parent": "759985267390294_1303688993019916",
+        "from": "10206311260692901",
+        "fromName": "Timotius Sitorus",
+        "type": "comment",
+        "message": "/delete",
+        "created": "2016-08-03T20:40:00.000Z",
+        "place": null,
+        "tags": [],
+        "link": null,
+        "comments": [],
+        "isMod": true,
+        "command": "delete",
+        "version": "9213d6b3cda9f05c36a3a4d78f86e68a20d3e88d"
+      }
+    ],
+    "isMod": false,
+    "command": null,
+    "version": "022ec3df8fde1aa940ec60ba4cc913a96f1fb21b"
+  }
+}
